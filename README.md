@@ -33,6 +33,11 @@ Make sure your computer supports serial communication and has a camera connected
 * Make sure you have connected the Pico to the servo-gimbal and the serial communication module. If you have a buzzer in hand, don't forget it.  
 ### More Details
 check [instructions.md](https://github.com/NowLoadY/ECT/blob/main/codes/instructions.md) 
+## Test
+<div align="center">
+  <img src="https://github.com/NowLoadY/ECT/blob/main/images/test.gif" width="40%" height="40%"/>  
+</div>  
+  
 ## Reference：  
 ### Environment configuration related：  
 * [查看cuda版本与torch的对应关系](https://blog.csdn.net/JohnJim0/article/details/108688964)  
