@@ -7,7 +7,7 @@ Electromagnetic Cannon Turret(Toy model)
   
 # How To Build *YOUR ECT*:  
 ## Circuit  
-I recommend that you first build your basic circuit according to ![This Schematic](images/connect.png).  
+I recommend that you build your basic circuit according to: first. ![This Schematic](images/connect.png).  
 ## 3D print  
 The model files required for 3D printing are in [here](https://github.com/NowLoadY/ECT/tree/main/stl_Files)。
 ## Code  
