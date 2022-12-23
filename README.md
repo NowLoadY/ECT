@@ -48,5 +48,3 @@ check [instructions.md](https://github.com/NowLoadY/ECT/blob/main/codes/instruct
 ## Related Repositories  
 [yolov7](https://github.com/WongKinYiu/yolov7)  
 [Toward Fast, Flexible, and Robust Low-Light Image Enhancement, CVPR 2022](https://github.com/vis-opt-group/SCI)  
-## Hi,
-If you are interested in this ECT, give me a star before leaving? Thank you~🍰  
