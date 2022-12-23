@@ -1,8 +1,13 @@
 # ECT
 Electromagnetic Cannon Turret(Toy model)  
+![](https://img.shields.io/badge/python-3.x-brightgreen) ![](https://img.shields.io/badge/micropython-RaspberryPi_Pico-green) ![](https://img.shields.io/badge/Yolo-v7-blue) ![](https://img.shields.io/badge/dark_image_enhance-black)
+<div align="center">
+  <img src="https://github.com/NowLoadY/ECT/blob/main/images/1.png" width="40%" height="40%"/>  
+</div>  
+  
 # How To Build *YOUR ECT*:  
 ## Circuit  
-I recommend that you first build your basic circuit according to the following schematic:  
+I recommend that you first build your basic circuit according to ![This Schematic](images/connect.png).  
 ## 3D print  
 The model files required for 3D printing are in [here](https://github.com/NowLoadY/ECT/tree/main/stl_Files)。
 ## Code  
