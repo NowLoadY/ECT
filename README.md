@@ -1,18 +1,32 @@
 # ECT
 electromagnetic cannon turret  
+电磁炮台（简单模型）
 # How To Build your ECT:  
-## 电路  
+## Circuit  
 我建议你首先按照以下原理图搭建好你的基本电路：  
-## 外壳  
+## 3D print  
 3D打印所需的模型文件在这个地方。
-## 代码  
+## Code  
 Here  
-### PC  
-* 建议使用conda为你创建一个用于运行yolov7的环境，我使用了python3.10。
+### For PC  
+#### Install
+* 建议使用conda为你创建一个用于运行yolov7的环境。
+* 环境配置要求具体见yolov7官方仓库。  
+#### Run
 * 在codes/路径下，运行:
 ```bash
 python elecshooterPC.py
 ```
+确保你的电脑已经支持串口通信，并已经连接好了摄像头
+### For RasPi Pico  
+#### Install
+* 在官网下载.uf2文件，按照官方教程安装好micropython。
+* 在Thonny中连接Pico
+* 将 codes/elecshooterPico.py 和 partsPico.py 烧录到Pico里面。
+* 如果你希望它通电自动运行，你需要更改elecshooterPico.py名字为main.py。
+#### Run  
+* 通常选择通电自动运行，否则会变得很麻烦。  
+* 确保你已经把Pico和舵机云台和串口通信模块连接起来。如果你手里准备了蜂鸣器，也别忘了它。  
 ## Reference：  
 ### Environment configuration related：  
 * [查看cuda版本与torch的对应关系](https://blog.csdn.net/JohnJim0/article/details/108688964)  
