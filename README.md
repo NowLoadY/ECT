@@ -45,6 +45,8 @@ check [instructions.md](https://github.com/NowLoadY/ECT/blob/main/codes/instruct
 * [Pycharm中python导入cv2包没有代码提示问题](https://blog.csdn.net/fangzhihuaa/article/details/113903689?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2~default~CTRLIST~default-1-113903689-blog-122422778.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2~default~CTRLIST~default-1-113903689-blog-122422778.pc_relevant_default&utm_relevant_index=2)
 ### Data processing related：
 * [总结PID算法，位置式增量式理解以及C代码实现](https://blog.csdn.net/weixin_43193231/article/details/95194946)  
+### Circuit related
+“单级电磁炮可控硅版——电磁爱好”
 ## Related Repositories  
 [yolov7](https://github.com/WongKinYiu/yolov7)  
 [Toward Fast, Flexible, and Robust Low-Light Image Enhancement, CVPR 2022](https://github.com/vis-opt-group/SCI)  
