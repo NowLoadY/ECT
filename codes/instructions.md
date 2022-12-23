@@ -1,7 +1,7 @@
 # elecshooterPC.py
 runs on PC, send command to the micro-controller, "AC|0|0|0" and "AA|0|0" are for aim. "ST" is for shoot. If you didn't use servo-gimbal, you should only need to send "ST" to RasPi Pico. 
 details of Initialization, you can check [line 133](https://github.com/NowLoadY/ECT/blob/main/codes/elecshooterPC.py#:~:text=%23%20%2D%2D%2D%2Dstart%20initialize%2D%2D%2D%2D%20%23)  
-yolov7 pre-trained model could be download [here](https://github.com/WongKinYiu/yolov7#:~:text=yolov7.pt%20yolov7x.pt%20yolov7%2Dw6.pt%20yolov7%2De6.pt%20yolov7%2Dd6.pt%20yolov7%2De6e.pt)  
+yolov7 pre-trained model could be download [here](https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7-e6e.pt)  
 The default target is the bottle, but you can change it [line 191](https://github.com/NowLoadY/ECT/blob/main/codes/elecshooterPC.py#:~:text=%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23-,%23%20%2D%2D%2D%2Danalyse%2D%2D%2D%2D%20%23,-%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23), the classes are accroding to the coco dataset.
 # elecshooterPico.py  
 runs on Pico. handle commands recieved from serial, and charge, shoot or aim.  
