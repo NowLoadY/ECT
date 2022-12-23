@@ -1,5 +1,6 @@
 # ECT
 Electromagnetic Cannon Turret(Toy model)  
+ GPL-3.0 license  
 ![](https://img.shields.io/badge/python-3.x-brightgreen) ![](https://img.shields.io/badge/micropython-RaspberryPi_Pico-green) ![](https://img.shields.io/badge/Yolo-v7-blue) ![](https://img.shields.io/badge/dark_image_enhance-black)
 <div align="center">
   <img src="https://github.com/NowLoadY/ECT/blob/main/images/1.png" width="40%" height="40%"/>  
