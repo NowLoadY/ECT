@@ -5,7 +5,7 @@ Electromagnetic Cannon Turret(Toy model)
   <img src="https://github.com/NowLoadY/ECT/blob/main/images/1.png" width="40%" height="40%"/>  
 </div>  
   
-# How To Build *YOUR ECT*:  
+# How To Build Your *ECT*:  
 ## Circuit  
 I recommend that you build your basic circuit according to: first. ![This Schematic](images/connect.png).  
 ## 3D print  
@@ -35,7 +35,7 @@ Make sure your computer supports serial communication and has a camera connected
 check [instructions.md](https://github.com/NowLoadY/ECT/blob/main/codes/instructions.md) 
 ## Test
 <div align="center">
-  <img src="https://github.com/NowLoadY/ECT/blob/main/images/test.gif" width="40%" height="40%"/><img src="https://github.com/NowLoadY/ECT/blob/main/images/test2.gif" width="40%" height="40%"/>  
+  <img src="https://github.com/NowLoadY/ECT/blob/main/images/test.gif" width="28%" height="28%"/><img src="https://github.com/NowLoadY/ECT/blob/main/images/test2.gif" width="30%" height="30%"/>  
 </div>  
   
 ## Reference：  
@@ -48,3 +48,5 @@ check [instructions.md](https://github.com/NowLoadY/ECT/blob/main/codes/instruct
 ## Related Repositories  
 [yolov7](https://github.com/WongKinYiu/yolov7)  
 [Toward Fast, Flexible, and Robust Low-Light Image Enhancement, CVPR 2022](https://github.com/vis-opt-group/SCI)  
+## Hi,
+If you are interested in this ECT, give me a star before leaving? Thank you~🍰  
